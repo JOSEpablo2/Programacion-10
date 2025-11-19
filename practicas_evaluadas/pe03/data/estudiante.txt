@@ -1,0 +1,4 @@
+# Archivo de datos del estudiante
+NOMBRE=José Pablo Rodríguez Rubí
+CORREO=josepablorodriguezrubi663@gmail.com
+MATERIAS=Programación
